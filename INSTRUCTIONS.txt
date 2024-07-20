@@ -1,0 +1,5 @@
+Netflix was a really fun job but now that you've aced creating a recommendation system, it's time to move onto a new company- Samsung!
+
+Samsung wants to create a new line of fridges which uses AI to generate a list of items in your fridge (deleting items that are removed). It's your job to make that happen.
+
+Follow the briefs in number order and good luck.
